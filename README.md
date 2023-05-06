@@ -9,6 +9,7 @@ O aplicativo utiliza um layout simples do Bootstrap para fornecer uma interface 
 3. Inicie o servidor de desenvolvimento com o comando ng serve.
 4. Acesse o aplicativo no seu navegador em http://localhost:4200/.
 
+
 ## Funcionalidades
 - Adicionar uma nova tarefa.
 - Remover uma tarefa: Os usuários podem remover uma tarefa existente clicando no botão de exclusão, que remove a tarefa da lista.
